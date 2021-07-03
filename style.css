@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(16, 143, 69);
+    height: 60px;
+    width: 100%;
+}
+.navigation{
+    display: inline;
+}
+
+#logo{
+    
+    display: inline;
+    font-size: 40px;
+    color: white;
+    margin-left: 20px;
+
+}
+.navarr{
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.navarr ul li{
+   display: inline-block;
+  
+    height:30px;
+    width: 100px;
+    
+ 
+}
+.navarr ul li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    
+    padding: 5px;
+    border: 2px solid rgb(75, 4, 4);
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
